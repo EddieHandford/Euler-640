@@ -6,7 +6,7 @@ Problem number 640
 
 "640 game" is the code for the full question.
 
-2019 UPDATE!
+2019 UPDATE! - see https://github.com/EddieHandford/Euler-640-v2
 
 Solved! 
 In order to reduce the processing time, the rolling mechanism was improved (approx x3 faster) and other improvements,
